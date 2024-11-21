@@ -3,6 +3,7 @@
 # Hi, I'm Sekwanele Sphelele Njoko 👋
 
 Welcome to my data science portfolio website! This site showcases my journey as an aspiring data scientist, featuring projects, skills, and achievements in data science, analytics, and technology. As I embark on my academic journey in BSc Mathematics Stream majoring in Computer Science and Statistics (Data Science), this portfolio reflects my passion for solving real-world problems with data-driven solutions.
+
 🧠 I am pursuing a Bachelor of Science in Mathematics Stream, majoring in Computer Science and Statistics (Data Science) at the University of KwaZulu-Natal. This academic foundation, combined with my growing technical skills, positions me to contribute meaningfully to the field of data science.
 
 👩‍💻 Portfolio Highlights
