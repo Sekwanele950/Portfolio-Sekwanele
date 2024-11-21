@@ -1,7 +1,4 @@
-# Portfolio-Sekwanele950.github.io
-
 # Aspiring Data Scientist
-
 
 # Hi, I'm Sekwanele Sphelele Njoko 👋
 
@@ -57,7 +54,4 @@ If you’d like to connect or collaborate, feel free to reach out:
 
 ## 🚀 About Me
 I am an enthusiastic student and aspiring data scientist with a strong passion for using data analytics to drive meaningful change. Growing up in rural KwaZulu-Natal, I have experienced firsthand how technology and data can transform underserved communities. My journey in data science began through self-learning, earning certifications in SQL, Data Analytics with AI, Coding for Data, and Machine Learning for Beginners through platforms like Sololearn.
-
-
-![App Screenshot](https://github.com/Sekwanele950/Portfolio-Sekwanele950.github.io/blob/main/1_Iz7bCLrPTImnBDOOEyE3LA.png)
 
