@@ -1,6 +1,7 @@
 title: Sekwanele Njoko
 theme: jekyll-theme-minimal
-# Uncomment and edit the following lines if needed
+theme: jekyll-theme-minimal
+custom_css: assets/css/style.css
 logo: "https://your-logo-link.com/logo.jpg"
 description: "Your description here"
 show_downloads: true
