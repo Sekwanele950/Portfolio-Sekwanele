@@ -1,5 +1,6 @@
-tittle: Sekwanele Njoko
-#logo: https://github.com/Sekwanele950/Portfolio-Sekwanele950.github.io/blob/main/ukzn-logo-1200x720-1.jpg
-#description: text below image
-#show_downloads: True
-Theme: jekyll-theme-minimal
+title: Sekwanele Njoko
+theme: jekyll-theme-minimal
+# Uncomment and edit the following lines if needed
+# logo: "https://your-logo-link.com/logo.jpg"
+# description: "Your description here"
+# show_downloads: true
