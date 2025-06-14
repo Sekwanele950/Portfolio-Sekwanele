@@ -27,9 +27,9 @@ Description: Developed a predictive model to assess flood risks in KwaZulu-Natal
 - Tools: Jupyter Notebook, GitHub
 
 ## Education
-- Degree: Bachelor of Science (Mathematics Stream)
-- Majors: Computer Science and Statistics (Data Science)
-- Institution: University of KwaZulu-Natal
+- Degree: Bachelor of Science IT (Data Science)
+- Majors:  (Data Science)
+- Institution: Eduvos University
 Start Date: 2025
 
 👯‍♀️ I'm looking to collaborate on.
