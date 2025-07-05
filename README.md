@@ -2,11 +2,11 @@
 
 # Hi, I'm Sekwanele Sphelele Njoko 👋
 
-Welcome to my data science portfolio website! This site showcases my journey as an aspiring data scientist, featuring projects, skills, and achievements in data science, analytics, and technology. As I embark on my academic journey in BSc Mathematics Stream majoring in Computer Science and Statistics (Data Science), this portfolio reflects my passion for solving real-world problems with data-driven solutions.
+Welcome to my data science portfolio website! This site showcases my journey as an aspiring data scientist, featuring projects, skills, and achievements in data science, analytics, and technology. As I embark on my academic journey in BSc in Data Science, this portfolio reflects my passion for solving real-world problems with data-driven solutions.
 
 🧠 Currently.
 
-I am pursuing a Bachelor of Science in Mathematics Stream, majoring in Computer Science and Statistics (Data Science) at the University of KwaZulu-Natal. This academic foundation, combined with my growing technical skills, positions me to contribute meaningfully to the field of data science.
+I am pursuing a Bachelor of Science in  Data Science at Eduvos private college. This academic foundation, combined with my growing technical skills, positions me to contribute meaningfully to the field of data science.
 
 👩‍💻 Portfolio Highlights
 
@@ -14,7 +14,7 @@ I am pursuing a Bachelor of Science in Mathematics Stream, majoring in Computer 
 Description: Developed a predictive model to assess flood risks in KwaZulu-Natal, aimed at supporting disaster preparedness in vulnerable communities.
  - Skills Applied: Data cleaning, exploratory data analysis, and machine learning.
  - Technologies: Python, Pandas, Matplotlib, Scikit-learn. 
-3. Stock Market Analysis (In Progress) Description: Analyzing stock market trends and building predictive models for forecasting stock prices.
+3. Stock Market Analysis (In Progress) Description: . Using Pandas to extract and analyse the information, visualise it, and look at different ways to analyse the risk of a stock, based on its performance history.
  - Skills Applied: Exploratory data analysis and feature engineering.
  - Technologies: Python, Pandas, Matplotlib. 
 
